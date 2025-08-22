@@ -1,3 +1,4 @@
+
 for i in range(1,31+1):
     if i % 15 ==0:
         print('fizzbuzz')
@@ -7,3 +8,6 @@ for i in range(1,31+1):
         print('buzz')
     else:
         print(i)
+
+
+
